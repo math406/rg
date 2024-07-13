@@ -103,15 +103,8 @@ footer {
 
 }
 
-<style>
-        section {
-            width: 500px;
-        }
-    
-        @media(max-widht: 500px: )  {
-            section {
-                width: 300px;
-            }
-        }
-
-    </style>
+@media screen and (max-widht: 1200px){
+    .redes-sociais{
+        display: none;
+    }
+}
