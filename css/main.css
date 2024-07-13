@@ -94,13 +94,11 @@ footer {
 .teoria {
     padding-left: 30px;
     margin-top:  18px;
-
 }
 
 .pizza {
     padding-left: 750px;
     margin-top: -300px;
-
 }
 
 @media screen and (max-widht: 1200px){
